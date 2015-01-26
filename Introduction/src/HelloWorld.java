@@ -6,13 +6,6 @@ public class HelloWorld { //added some comments
 		int a;
 		a = 5;
 		
-		double c = 4.5;
-		
-		float d = 6.7f;
-		
-		boolean t = false;
-		
-		char z = 's';
 	}
 
 }
