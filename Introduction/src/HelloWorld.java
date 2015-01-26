@@ -13,8 +13,6 @@ public class HelloWorld { //added some comments
 		boolean t = false;
 		
 		char z = 's';
-		
-		long v = 35551413155513131L;
 	}
 
 }
